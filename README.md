@@ -74,6 +74,13 @@ engineering-research-wiki/
 - AI for Engineering
 - Research Methodology
 
+### Core Domains
+- [RF & Antennas](wiki/rf-and-antennas/)
+- [Networks & Systems](wiki/networks-and-systems/)
+- [Signal Processing](wiki/signal-processing/)
+- [AI for Engineering](wiki/ai-for-engineering/)
+- [Research Methodology](wiki/research-methodology.md)
+
 (Individual pages are added progressively as the wiki evolves.)
 
 ---
