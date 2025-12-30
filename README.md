@@ -43,6 +43,24 @@ The content is written to support:
 Each topic page follows a **consistent wiki template** to ensure clarity,
 traceability, and reuse.
 
+## Repository Structure
+
+```text
+engineering-research-wiki/
+├─ README.md
+├─ wiki/
+│  ├─ wiki-page-template.md
+│  ├─ rf-and-antennas/
+│  ├─ networks-and-systems/
+│  ├─ signal-processing/
+│  ├─ ai-for-engineering/
+│  └─ research-methodology.md
+├─ assets/
+│  ├─ figures/
+│  └─ diagrams/
+└─ LICENSE
+
+
 ---
 
 ## Wiki Navigation
