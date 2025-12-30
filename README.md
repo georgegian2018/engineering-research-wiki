@@ -52,4 +52,3 @@ engineering-research-wiki/
 │  ├─ figures/
 │  └─ diagrams/
 └─ LICENSE
-
