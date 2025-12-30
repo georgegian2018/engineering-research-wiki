@@ -38,3 +38,84 @@ The content is written to support:
 
 ## Repository Structure
 
+
+
+Each topic page follows a **consistent wiki template** to ensure clarity,
+traceability, and reuse.
+
+---
+
+## Wiki Navigation
+
+- [Wiki Page Template](wiki/wiki-page-template.md)
+
+### Core Domains
+- RF & Antennas
+- Networks & Systems
+- Signal Processing
+- AI for Engineering
+- Research Methodology
+
+(Individual pages are added progressively as the wiki evolves.)
+
+---
+
+## Research & Professional Alignment
+
+This repository is aligned with:
+- Academic research workflows
+- IEEE-style technical writing
+- Systems thinking and architectural reasoning
+- Simulation-driven engineering design
+- Standards-based communication systems
+
+Where appropriate, pages may reference:
+- Peer-reviewed literature
+- Standards documents
+- Simulation tools and methodologies
+- Reproducible technical processes
+
+---
+
+## Related Resources
+
+For templates, practical notes, and cross-topic navigation, see:
+
+➡ **Technical Wiki Hub**  
+`technical-wiki-hub` (separate repository)
+
+This separation ensures:
+- **Depth here**
+- **Breadth and navigation elsewhere**
+
+---
+
+## Author & Profiles
+
+This wiki reflects ongoing professional and research activity.
+
+Relevant profiles:
+- Google Scholar
+- ORCID
+- IEEE Xplore Author Profile
+- ResearchGate
+- GitHub Profile
+- LinkedIn
+
+(Links can be added as needed.)
+
+---
+
+## License
+
+Unless otherwise stated, content is provided for educational and research
+purposes. Licensing details are available in the `LICENSE` file.
+
+---
+
+## Status
+
+This is a **living repository**.
+Content is continuously refined, expanded, and aligned with current research
+and professional practice.
+
