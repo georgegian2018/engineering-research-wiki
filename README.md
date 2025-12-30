@@ -119,3 +119,20 @@ This is a **living repository**.
 Content is continuously refined, expanded, and aligned with current research
 and professional practice.
 
+
+## How to Use This Wiki
+
+This repository is organised as a research-oriented wiki.
+
+- Each topic lives in its own Markdown file under `wiki/`
+- All pages follow the same **wiki page template**
+- Content is written to be:
+  - technically precise
+  - research-aligned
+  - reusable across papers, reports, and teaching material
+
+Pages may evolve from:
+- notes → structured documentation → publishable material
+
+This repository prioritises **clarity, traceability, and long-term value**
+over quick notes or informal tutorials.
