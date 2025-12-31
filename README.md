@@ -53,3 +53,47 @@ engineering-research-wiki/
 │  └─ diagrams/
 └─ LICENSE
 ```
+
+## 🧩 Templates
+
+All templates are in [`/templates`](./templates):
+
+- 📝 **Wiki Page Template**
+- 🛠️ **Troubleshooting Guide**
+- 📘 **Instructional / How-To Format**
+
+These ensure all pages across wikis follow a consistent structure.
+
+---
+
+## 🧠 Topics
+
+Starter content to help new users, stored in [`/topics`](./topics):
+
+- 🐧 **Linux commands and engineering toolchains**
+- 🔁 **Git workflows and version control**
+- 🌐 **Networking basics for engineers**
+- 🧮 **Simulation environments** (MATLAB, CST, Python, etc.)
+
+---
+
+## 🔗 Reference Collections
+
+See [`/links`](./links) for:
+
+- 🧪 **Research tools and academic repositories**
+- 📚 **IEEE / ITU / ETSI standard documents**
+- 🔗 **Long-term reference materials**
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 🙌 Acknowledgments
+
+Built and maintained by [Georgios Giannakopoulos](https://github.com/georgiosgiannakopoulos).  
+Inspired by open knowledge engineering and long-term documentation practices.
