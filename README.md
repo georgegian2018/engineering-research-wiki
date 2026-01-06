@@ -1,9 +1,12 @@
 # Engineering Research Wiki
 
-![Markdown](https://img.shields.io/badge/Format-Markdown-blue?style=flat-square)
+![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
+![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Compatible-green?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Documentation%20Hub-purple)
 ![Research](https://img.shields.io/badge/Focus-Engineering%20Research-purple?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20Development-informational?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen)
 
 A structured, research-oriented knowledge base documenting engineering concepts,
 methods, system-level designs, and technical notes aligned with academic research
