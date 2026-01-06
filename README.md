@@ -14,9 +14,9 @@ the gap between theory, simulation, and real-world engineering systems.
 
 ---
 
-## Scope and Focus
+## 📚 Scope and Focus
 
-This wiki covers topics across multiple engineering domains, with particular
+The **Engineering Research Wiki Hub** covers topics across multiple engineering domains, with particular
 emphasis on:
 
 - **RF, Microwave, and Antenna Engineering**
@@ -36,7 +36,7 @@ The content is written to support:
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 engineering-research-wiki/
