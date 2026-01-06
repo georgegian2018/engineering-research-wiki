@@ -59,8 +59,8 @@ engineering-research-wiki/
 
 | Repository | Description |
 |------------|-------------|
-| [`engineering-research-wiki`](https://github.com/georgiosgiannakopoulos/engineering-research-wiki) | Technical deep-dives into RF, signal processing, AI, research and many more... |
-| [`technical-wiki-hub`](https://github.com/georgiosgiannakopoulos/technical-wiki-hub) | Technical deep-dives into wiki-page-template, linux-and-tools, AI, simulations,  networking-basics and many more...|
+| [`engineering-research-wiki`](https://github.com/georgiosgiannakopoulos/engineering-research-wiki) | Technical deep-dives into RF, signal processing, and many more... |
+| [`technical-wiki-hub`](https://github.com/georgiosgiannakopoulos/technical-wiki-hub) | Technical deep-dives into wiki-page-template, linux-and-tools, networking-basics and many more...|
 
 
 inux-and-tools
