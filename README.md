@@ -62,23 +62,6 @@ engineering-research-wiki/
 | [`engineering-research-wiki`](https://github.com/georgiosgiannakopoulos/engineering-research-wiki) | Technical deep-dives into RF, signal processing, and many more... |
 | [`technical-wiki-hub`](https://github.com/georgiosgiannakopoulos/technical-wiki-hub) | Technical deep-dives into wiki-page-template, linux-and-tools, networking-basics and many more...|
 
-
-inux-and-tools
-
-├─ wiki-page-template.md
-│  ├─ troubleshooting-template.md
-│  └─ how-to-template.md
-├─ topics/
-│  ├─ .md
-│  ├─ networking-basics.md
-│  ├─ git-and-version-control.md
-│  └─ simulations.md
-├─ links/
-│  ├─ research-links.md
-│  └─ standards-and-references.md
-
-
-
 More domain-specific wikis will be listed here as they are added.
 
 ## 🧩 Templates
